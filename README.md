@@ -1,4 +1,4 @@
-# VLC_TRAFFIC
+# VALENCIA Traffic App
 
 Con la gran evolución que se está dando a cabo en el sector de las tecnologías, la recolección de datos en las grandes ciudades se ha convertido en una tarea muy importante para los diferentes ayuntamientos a la hora de llevar un seguimiento sobre diferentes parámetros como pueden ser la contaminación tanto medioambiental como sonora o el estado del tráfico en tiempo real en esa ciudad.
 
